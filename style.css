@@ -1,0 +1,62 @@
+body{
+    margin: 0 auto;
+    height: 103vh;
+    width: 80%;
+    background : radial-gradient(circle, aqua,  cornflowerblue);
+    background-repeat: no-repeat;
+}
+#cim{
+    color: darkblue;
+    text-align: center;
+}
+#alcim{
+    color: darkblue;
+}
+/*#bem{
+    color: white;
+    background-color: rgb(79, 79, 255);
+}
+*/
+#nav{
+    background-color: rgb(144, 255, 255);
+}
+#nav li{
+    margin: 10px;
+    display: inline-block;
+   
+}
+#nav li a{
+    text-decoration: none;
+    color: darkblue;
+}
+#nav li a:hover{
+    background-color: navy;
+    color: white;
+}
+/*#back:hover{
+    background-color: navy;
+    color: white;
+}
+*/
+#type01{
+    color: darkblue;
+    text-align: center;   
+}
+#hr{
+    color: red;
+}
+#problem{
+    color: darkblue;
+    text-align: center;
+}
+.anylauge{
+    color: darkblue;
+    text-align: center;
+}
+#email:hover{
+    color: white;
+    background-color: navy;
+}
+#email{
+    color: red;
+}
